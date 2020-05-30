@@ -1,13 +1,13 @@
 ### For how to work
-You can be an entrepreneur, freelancer or an employee.
+You can be an entrepreneur, freelancer, or employee.
 
-Entrepreneur will build some product on their own resources and if it will end up profitable (most projects won't) will earn money from users, paying for the product.
+Entrepreneurs will build some products from their resources and if it will end up profitable (most projects won't) will earn money from users, paying for the product.
 
-Freelancer getting paid per project/time spend for client's task, independent of it's success.
+Freelancer getting paid per project/time spend for the client's task, independent of it's a success.
 
-Employee is a freelancer with stable workload and payment, some social package, but smaller salary. 
+An employee is a freelancer with a stable workload and payment, some social package, but a smaller salary. 
 
-Information below is mainly for employees and freelancers/contractors. 
+The information below is mainly for employees and freelancers/contractors. 
     
 #### What kind of skills/occupations are best suited for remote work?
 
