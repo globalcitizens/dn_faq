@@ -1,11 +1,12 @@
 # Digital Nomads knowledge database
 
 Table of Contents
-[Choosing location](choosing_location.md)
-[Accomodation](accomodation.md)
-[Work](work.md)
+* [Choosing location](choosing_location.md)
+* [Accomodation](accomodation.md)
+* [Work](work.md)
 
-[Plans to do](todo.md)
+
+* [Plans to do](todo.md)
 
 ## Motivation
 While Digital Nomads movement growing, it's becoming more and more difficult to find trustful information about daily DN routine.
