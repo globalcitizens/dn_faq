@@ -8,3 +8,7 @@
 
 * Portugal
 
+Accomodations - https://nomadx.com/
+
+
+
